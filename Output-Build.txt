@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: WindowsFormsApp22, Configuration: Debug Any CPU ------
+1>  WindowsFormsApp22 -> C:\Users\ucenik\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
